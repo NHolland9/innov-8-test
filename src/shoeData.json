@@ -1,0 +1,138 @@
+{
+  "productData": [
+
+    {
+      "id": 1,
+      "name": "Terraultra G 270",
+      "imageID": "",
+      "grip": [
+        {
+          "snowIce": 0,
+          "softMuddy": 1,
+          "hardRocky": 3,
+          "pathsTrails": 5,
+          "road": 3
+        }
+      ],
+      "shoeAttributes": [
+        {
+          "fit": 5,
+          "cushioning": 5,
+          "underfoot": 4,
+          "responsiveness": 5,
+          "breathability": 5
+        }
+      ],
+      "reviews": [
+        {
+          "total": 189,
+          "average": 4.7
+        }
+      ],
+      "details": [
+        {
+          "fitScale": 5,
+          "drop": "0mm",
+          "footbed": "BOOMERANG FOOTBED",
+          "lugDepth": "4mm",
+          "use": "Hard and Rocky, Paths and Trails, Road",
+          "midsole": "POWERFLOW MAX",
+          "midsoleStack": "12mm / 12mm",
+          "shank": "N/A",
+          "soleCompound": "GRAPHENE GRIP",
+          "productWeight": "270g / 9.5oz"
+        }
+      ],
+      "description": "Named TRAIL RUNNING SHOE OF THE YEAR 2020 by Runner’s World and three other publications, the TERRAULTRA G 270 is taking the world of trail and ultramarathon running by storm. An evolution of the TERRAULTRA G 260, we have made several small, yet crucially detailed, improvements that deliver more grip, more bounce, more cushioning, more comfort, more everything. Featuring an improved use of our pioneering Graphene-Grip rubber and a new plush cushioning foam that delivers greater energy return for longer, the TERRAULTRA G 270 is winning hordes of fans across the world. It was also the shoe used by Damian Hall when setting an incredible new record times for the 268-mile Pennine Way (Great Britain’s toughest trail) in 61hrs 35mins and the 185-mile Wainwright’s Coast to Coast in 39hrs 18mins."
+    },
+
+    {
+      "id": 2,
+      "name": "Trailfly G 300 Max",
+      "imageID": "",
+      "grip": [
+        {
+          "snowIce": 0,
+          "softMuddy": 1,
+          "hardRocky": 3,
+          "pathsTrails": 5,
+          "road": 3
+        }
+      ],
+      "shoeAttributes": [
+        {
+          "fit": 5,
+          "cushioning": 5,
+          "responsiveness": 5,
+          "breathability": 5
+        }
+      ],
+      "reviews": [
+        {
+          "total": 151,
+          "average": 4.7
+        }
+      ],
+      "details": [
+        {
+          "fitScale": 5,
+          "drop": "6mm",
+          "footbed": "6mm Boomerang",
+          "lugDepth": "4mm",
+          "use": "Hard and Rocky, Paths and Trails, Road",
+          "midsole": "G-FLY",
+          "midsoleStack": "25mm heel / 19mm forefoot",
+          "shank": "DFB",
+          "soleCompound": "GRAPHENE GRIP",
+          "productWeight": "300g"
+        }
+      ],
+      "description": "The TRAILFLY ULTRA G 300 MAX is a revolutionary trail shoe featuring the world’s first Graphene-enhanced foam, called G-FLY. The foam delivers 25% greater energy return and retains its optimum levels of underfoot rebound and comfort for longer, so runners feel faster and fresher over greater distances.<br /><br />Pioneering a new way for cushioned ultra running shoes, the TRAILFLY ULTRA G 300 MAX also features a unique underfoot ADAPTER-FLEX groove, allowing it to adapt and react to the terrain like no other. And that’s not all. GRAPHENE-GRIP rubber delivers the world’s toughest trail traction, while the supportive upper fit adapts to the natural changes of the foot when running big miles.<br /><br />It’s time to defy the limits of your long run in the shoe awarded INNOVATION OF THE YEAR by Trail Running magazine.<br /><br />“A dream for long-distance trail runners” – Runner’s World UK, who named in BEST TRAIL SHOE in their 2021 Gear Awards<br /><br />“Great trail tech. 92%. Gear of the Year” – 220 Triathlon (January 2022 issue)<br /><br />“We’ve been signing from the hilltops about the exceptional cushioning” – Women’s Running UK, who named it BEST TRAIL SHOE in their 2021 Awards"
+    },
+
+    {
+      "id": 3,
+      "name": "Parkclaw Knit G 280",
+      "imageID": "",
+      "grip": [
+        {
+          "snowIce": 0,
+          "softMuddy": 1,
+          "hardRocky": 2,
+          "pathsTrails": 5,
+          "road": 3
+        }
+      ],
+      "shoeAttributes": [
+        {
+          "fit": 5,
+          "cushioning": 5,
+          "responsiveness": 3,
+          "breathability": 4
+        }
+      ],
+      "reviews": [
+        {
+          "total": 28,
+          "average": 4.9
+        }
+      ],
+      "details": [
+        {
+          "fitScale": 5,
+          "drop": "8mm",
+          "footbed": "Boomerang",
+          "lugDepth": "4mm",
+          "use": "Paths and Trails, Road",
+          "midsole": "POWERFLOW+",
+          "midsoleStack": "20mm / 12mm",
+          "shank": "DFB",
+          "soleCompound": "inov-8 rubber",
+          "productWeight": "260g / 9.17oz"
+        }
+      ],
+      "description": "The ultimate shoe for road-to-trail running with a super-comfortable knitted upper, high levels of cushioning and a rubber tread pattern designed to give maximum performance on both trails and roads. Perfect for runners of all abilities seeking a hybrid shoe that can be worn from the door or those looking to transition from road running into trail running."
+    }
+
+  ]
+}
