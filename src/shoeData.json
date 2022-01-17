@@ -4,7 +4,6 @@
     {
       "id": 1,
       "name": "Terraultra G 270",
-      "imageID": "",
       "grip": [
         {
           "snowIce": 0,
@@ -43,13 +42,12 @@
           "productWeight": "270g / 9.5oz"
         }
       ],
-      "description": "Named TRAIL RUNNING SHOE OF THE YEAR 2020 by Runner’s World and three other publications, the TERRAULTRA G 270 is taking the world of trail and ultramarathon running by storm. An evolution of the TERRAULTRA G 260, we have made several small, yet crucially detailed, improvements that deliver more grip, more bounce, more cushioning, more comfort, more everything. Featuring an improved use of our pioneering Graphene-Grip rubber and a new plush cushioning foam that delivers greater energy return for longer, the TERRAULTRA G 270 is winning hordes of fans across the world. It was also the shoe used by Damian Hall when setting an incredible new record times for the 268-mile Pennine Way (Great Britain’s toughest trail) in 61hrs 35mins and the 185-mile Wainwright’s Coast to Coast in 39hrs 18mins."
+      "description": "Named TRAIL RUNNING SHOE OF THE YEAR 2020 by Runner’s World and three other publications, the TERRAULTRA G 270 is taking the world of trail and ultramarathon running by storm.<br /><br />An evolution of the TERRAULTRA G 260, we have made several small, yet crucially detailed, improvements that deliver more grip, more bounce, more cushioning, more comfort, more everything.<br /><br />Featuring an improved use of our pioneering Graphene-Grip rubber and a new plush cushioning foam that delivers greater energy return for longer, the TERRAULTRA G 270 is winning hordes of fans across the world.<br /><br />It was also the shoe used by Damian Hall when setting an incredible new record times for the 268-mile Pennine Way (Great Britain’s toughest trail) in 61hrs 35mins and the 185-mile Wainwright’s Coast to Coast in 39hrs 18mins."
     },
 
     {
       "id": 2,
       "name": "Trailfly G 300 Max",
-      "imageID": "",
       "grip": [
         {
           "snowIce": 0,
@@ -93,7 +91,6 @@
     {
       "id": 3,
       "name": "Parkclaw Knit G 280",
-      "imageID": "",
       "grip": [
         {
           "snowIce": 0,

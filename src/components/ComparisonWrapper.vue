@@ -37,22 +37,20 @@
       <img v-if="pick2" :src="require(`@/assets/${pick2}.jpg`)" class="comparison__image" />
     </div>
 
-    <template v-if="pick1 && pick2">
-      <BasicComparison :pick1="shoeData[pick1-1]" :pick2="shoeData[pick2-1]" />
-    </template>
+    <ComparisonTabs v-if="pick1 && pick2" :pick1="shoeData[pick1-1]" :pick2="shoeData[pick2-1]" />
   </div>
   
 </template>
 
 <script>
 import shoeData from '@/shoeData.json';
-import BasicComparison from '@/components/BasicComparison.vue'
+import ComparisonTabs from '@/components/ComparisonTabs.vue'
 
 export default {
   name: 'ComparisonWrapper',
 
   components: {
-    BasicComparison
+    ComparisonTabs
   },
 
   data() {
